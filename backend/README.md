@@ -38,6 +38,10 @@ This project uses Machine Learning to analyze historical sales data and predict 
 
 ## 📷 Screenshots
 (Add screenshots of your app here: dashboard, prediction output, etc.)
+<img width="1918" height="1092" alt="image" src="https://github.com/user-attachments/assets/0d17259d-d3f3-4e77-958e-2d2501bf576e" />
+<img width="1882" height="1018" alt="image" src="https://github.com/user-attachments/assets/a11712b3-0ffd-4c5b-b34e-a226b7c2d9a8" />
+
+
 
 ---
 
